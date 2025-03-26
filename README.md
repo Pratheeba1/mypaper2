@@ -4,17 +4,10 @@
 ## Introduction 
 My second paper at the attempt. 
 
-
-
-## Experimental setup
-
 ## Theory 
 
-## Conclusion 
 
-## Bibliography
+## Bibliography 
 
-BOOK1
-BOOK2
-BOOK3
+Book1
 
